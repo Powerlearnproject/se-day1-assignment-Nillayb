@@ -142,6 +142,6 @@ Vague Prompt:  Technology: When scheming the lesson, Mr. Muller attempts to inte
 Improved Prompt:  Category: Artificial Intelligence’ Detailing the impacts of Artificial Intelligence on healthcare now and in the future reflecting on cases plus the benefits of its application.  
  Explanation of Effectiveness 
   1. Clarity: The improvement of the prompt incorporates the focus term—which is artificial intelligence— and the setting where the application is mandatory—healthcare; therefore, directing the search process of the AI. 
-  2. Specificity: General information about the topic is no longer expected by preparing specific prompt question which assist in transforming general knowledge answer into useful, specific information. 
+  2. Specificity:General information about the topic is no longer expected by preparing specific prompt question which assist in transforming general knowledge answer into useful, specific information. 
   3. Conciseness: This has made the new prompt clearer and more specific as compared to the previous ones and this shall help the students to answer the question straightforward. 
   It is more useful to receive the improved prompt because it is specific, though it does not limit you to a certain theme within the technology field; the details which are given will be beneficial. That results into giving a better interaction with the AI model and is therefore preferred.
